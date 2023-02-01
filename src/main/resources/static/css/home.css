@@ -1,0 +1,16 @@
+@charset "ISO-8859-1";
+.ane{
+	background: blue;
+	width: 450px;
+	height:500px;
+	
+}
+.body{
+	background: black;
+	width: 506px;
+	height:700px;
+}
+.ane h1{
+	color:red;
+	
+}

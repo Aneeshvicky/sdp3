@@ -1,0 +1,23 @@
+movies table
+-------------
+movie name
+movie id
+show time
+date
+movie image(this is store like url)
+movie discription
+avible seets
+ticket price
+movie cast
+movie theater name
+------------------------------
+
+About us cheali
+contact us
+profile page
+
+----------------------------
+
+<a href="https://imgbb.com/"><img src="https://i.ibb.co/B6B6HVp/upm5.jpg" alt="upm5" border="0"></a>
+
+<button><a href="http://localhost:2022/livelocation">Watch traller </a></button>
